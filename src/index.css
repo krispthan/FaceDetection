@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: 'Mukta Mahee', sans-serif;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:#132139;
+  /* background-image: url("./Assets//background.jpg"); */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+buttons{
+  cursor:pointer;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+  
+}
